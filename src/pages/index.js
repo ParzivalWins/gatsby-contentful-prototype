@@ -60,7 +60,7 @@ export const pageQuery = graphql`
       }
     }
     allContentfulPerson(
-      filter: { contentful_id: { eq: "1WDZoL60llPzIf8qMKVUr7" } }
+      filter: { contentful_id: { eq: "67LGDOu1Vq0EOgqpgaH8Ih" } }
     ) {
       edges {
         node {
